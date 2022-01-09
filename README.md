@@ -1,4 +1,4 @@
- Hi there 👋
+ Hi there, I'm @TheShadows1998👋
 
 - 🔭 I’m currently working on Ellis-Development
 - 🌱 I’m currently learning react 
